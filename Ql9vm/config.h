@@ -16,4 +16,3 @@
 
 
 // Custom QMK config
-#define NO_ALT_REPEAT_KEY
